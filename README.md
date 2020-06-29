@@ -10,8 +10,9 @@ In this repository, I have solved
 With the help of the provided 10 text documents namely T1,T2,...T10 for relevant information retrieval.
 
 *PROJECT*:
-AUTOMATED ESSAY 
-SUMMARIZATION AND GRADING 
+-
+AUTOMATED ESSAY SUMMARIZATION AND GRADING 
+-
 
 Why summarize?
 With our busy schedule, we usually prefer to read the 
